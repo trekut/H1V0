@@ -1,0 +1,12 @@
+MaximumLikelihood 4000 4 1 Quadratures\Data_Canonical_H.txt Data_Canonical_H_rho_nocorr.txt
+MaximumLikelihood 4000 4 1 Quadratures\Data_Canonical_V.txt Data_Canonical_V_rho_nocorr.txt
+MaximumLikelihood 4000 4 1 Quadratures\Data_Diagonal_Minus.txt Data_Diagonal_Minus_rho_nocorr.txt
+MaximumLikelihood 4000 4 1 Quadratures\Data_Diagonal_Plus.txt Data_Diagonal_Plus_rho_nocorr.txt
+MaximumLikelihood 4000 4 1 Quadratures\Data_Circular_Minus.txt Data_Circular_Minus_rho_nocorr.txt
+MaximumLikelihood 4000 4 1 Quadratures\Data_Circular_Plus.txt Data_Circular_Plus_rho_nocorr.txt
+MaximumLikelihood 4000 4 0.5 Quadratures\Data_Canonical_H.txt Data_Canonical_H_rho_corr.txt
+MaximumLikelihood 4000 4 0.5 Quadratures\Data_Canonical_V.txt Data_Canonical_V_rho_corr.txt
+MaximumLikelihood 4000 4 0.5 Quadratures\Data_Diagonal_Minus.txt Data_Diagonal_Minus_rho_corr.txt
+MaximumLikelihood 4000 4 0.5 Quadratures\Data_Diagonal_Plus.txt Data_Diagonal_Plus_rho_corr.txt
+MaximumLikelihood 4000 4 0.5 Quadratures\Data_Circular_Minus.txt Data_Circular_Minus_rho_corr.txt
+MaximumLikelihood 4000 4 0.5 Quadratures\Data_Circular_Plus.txt Data_Circular_Plus_rho_corr.txt
